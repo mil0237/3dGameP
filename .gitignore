@@ -97,3 +97,7 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Download Assets
+/[Aa]ssets/[Ii]mported/
+/[Aa]ssets/[Ii]mported.meta

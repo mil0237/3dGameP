@@ -4,5 +4,21 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/InitScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f0007238ab6725442a3127986e989577
+  - enabled: 1
+    path: Assets/Scenes/HumanoidBoss.unity
+    guid: b40836a0eea3663439bc987c3a303822
+  - enabled: 1
+    path: Assets/Scenes/Player1.unity
+    guid: 26d196769b73cca47940106aae6ef107
+  - enabled: 1
+    path: Assets/Scenes/SpaceShipBoss.unity
+    guid: 6bdacf2a146623a43bf1500c52150085
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
